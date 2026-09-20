@@ -5,3 +5,5 @@
 > **TLDR** Authors takes a nuanced counter-perspective to the "end of software developers" narrative, grounded in over four decades of software engineering experience, and tells that models are expensive to run and the future he sees a where AI becomes like a coding assistant built atop a basic language model.
 
 > **PS**: I learned new term 3,4,5 GLS (generation languages)
+
+**Comment by ynnsnxhc**: I appreciate that the article does not dismiss AI tools but places them in context: they are useful assistants, and judgment about what to build and why still comes from developers
